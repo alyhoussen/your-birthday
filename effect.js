@@ -195,7 +195,9 @@ $('document').ready(function(){
 	});
 });
 
-
+document.getElementById("turn_off").addEventListener("click",()=>{
+	alert("Off kkkkk")
+})
 
 
 //alert('hello');
